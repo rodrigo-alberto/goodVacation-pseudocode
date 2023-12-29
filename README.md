@@ -2,14 +2,13 @@
 
 ### Previews:
 
-> Pseudocódigo
-
- ![gif-goodVacation-pseudocode](https://github.com/rodrigo-alberto/activities-recodepro/assets/85527665/a11e2693-2571-4967-840a-5ea115819823)
-
 > Front-end inicial
 
 ![front-inicial-goodVacation](https://github.com/rodrigo-alberto/activities-recodepro/assets/85527665/e26b267a-de3a-4d0e-834d-e7857752e33c)
 
+> Pseudocódigo
+
+ ![gif-goodVacation-pseudocode](https://github.com/rodrigo-alberto/activities-recodepro/assets/85527665/a11e2693-2571-4967-840a-5ea115819823)
 
 ## 📂 Acesso ao projeto:
 
